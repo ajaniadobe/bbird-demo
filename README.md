@@ -1,8 +1,8 @@
 Demo Project - Cloud Adoption
 
 ## Environments
-- Preview: https://main--demo--scdemos.aem.page/
-- Live: https://main--demo--scdemos.aem.live/
+- Preview: https://main--bbird-demo--ajaniadobe.aem.page/
+- Live: https://main--bbird-demo--ajaniadobe.aem.live/
 
 ## Documentation
 
